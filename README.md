@@ -2,4 +2,4 @@
 
 Please see the below picture for attaching all noted parts.
 
-![AVATAR Guide](./00%20AVATAR_2023_guide.png)
+![AVATAR Guide](./AVATAR_Nov-2023/000_AVATAR_Oct_2023.png)
