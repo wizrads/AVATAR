@@ -1,5 +1,5 @@
 # Multiviewer
 
-## Config
+## Configs
 
-Example
+### TV
